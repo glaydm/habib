@@ -1,4 +1,2 @@
 # habib
-به مطالعه رجوع مکنم
-این
-من وتو
+tipsy / profile-summary-for-github
